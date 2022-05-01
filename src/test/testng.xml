@@ -5,6 +5,7 @@
         <classes>
             <class name="com.test.ra.test_crud"/>
             <class name="com.test.ra.crud_post"/>
+            <class name="com.test.ra.test_hamcrest"/>
         </classes>
     </test>
 </suite>
